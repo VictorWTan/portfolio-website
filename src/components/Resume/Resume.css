@@ -1,0 +1,9 @@
+.resume-button{
+    display: flex;
+    margin-left: 20px;
+    background-color: white;
+    border-radius: .4em;
+    border: solid;
+    padding: 1em 2em;
+    color: #FF6763;
+}

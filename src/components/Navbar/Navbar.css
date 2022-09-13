@@ -1,0 +1,22 @@
+.nav-bar {
+    display: flex;
+    width: 100vw;
+    font-family: 'Work Sans', sans-serif;
+    color: #FF6763;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 25%;
+    padding-left: 10%;
+    font-size: large;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    width: 75%;
+    margin-left: 30%;
+}

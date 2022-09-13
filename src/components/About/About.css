@@ -1,0 +1,9 @@
+a, a:visited {
+    text-decoration: none;
+    margin: 0% 2%;
+    font-size: large;
+    color: #FF6763;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
